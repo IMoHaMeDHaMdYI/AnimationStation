@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Station</string>
+
+    <!--in strings.xml-->
+    <string name="transition_name">transition name</string>
+
+</resources>
