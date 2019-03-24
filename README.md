@@ -21,6 +21,6 @@ https://developer.android.com/reference/android/support/constraint/motion/Motion
 https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d
 
 SharedElementTransition
-https://developer.android.com/training/transitions/start-activity
+https://developer.android.com/training/transitions/start-activity <br>
 Droidcon (shared element)
 https://www.youtube.com/watch?v=CEvqY91AGcI&t=19s&index=6&list=PL9Pfzam3fFdcu8mJ675LE7iR4gj8G60sp
