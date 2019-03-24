@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.mohamed.animationstation">
+    package="com.mohamed.animationstation">
 
     <application
         android:allowBackup="true"
@@ -9,18 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".sharedelement.MainActivity">
-        </activity>
-        <activity android:name=".sharedelement.TransitionActivity">
-        </activity>
-        <activity android:name=".animator.AnimatorActivity">
-
+        <activity android:name=".sharedelement.MainActivity" />
+        <activity android:name=".sharedelement.TransitionActivity" />
+        <activity android:name=".animator.AnimatorActivity"></activity>
+        <activity android:name=".motionlayout.MotionActivity" />
+        <activity android:name=".ParentActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".motionlayout.EnhancedMotionActivity"></activity>
     </application>
 
 </manifest>
